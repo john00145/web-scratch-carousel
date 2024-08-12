@@ -1,9 +1,9 @@
 # Github 
 Structure
-1 - git init
-2 - git add -A
-3 - git commit -m "askdjakd"
-4 - git remote add origin https://github.com/john00145/web-scratch-carousel.git
+1 - git init ||
+2 - git add -A ||
+3 - git commit -m "askdjakd" ||
+4 - git remote add origin https://github.com/john00145/web-scratch-carousel.git ||
 5 - git push -u origin master
 
 
